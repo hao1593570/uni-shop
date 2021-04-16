@@ -179,14 +179,13 @@
 	$uni-searchbar-height: 36px;
 
 	.uni-searchbar {
-	  /* #ifndef APP-NVUE */
-	  display: flex;
-	  /* #endif */
-	  flex-direction: row;
-	  position: relative;
-	  padding: 16rpx;
-	  /* 将默认的 #FFFFFF 改为 #C00000 */
-	  background-color: #c00000;
+		/* #ifndef APP-NVUE */
+		display: flex;
+		/* #endif */
+		flex-direction: row;
+		position: relative;
+		padding: $uni-spacing-col-base;
+		// background-color: $uni-bg-color;
 	}
 
 	.uni-searchbar__box {

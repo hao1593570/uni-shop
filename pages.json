@@ -31,7 +31,7 @@
   }],
   "globalStyle": {
     "navigationBarTextStyle": "white",
-    "navigationBarTitleText": "小叶速购",
+    "navigationBarTitleText": "SPA速购",
     "navigationBarBackgroundColor": "#C00000",
     "backgroundColor": "#FFFFFF"
   },
